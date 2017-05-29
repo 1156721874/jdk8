@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JDK8lambda.iml" filepath="$PROJECT_DIR$/.idea/modules/JDK8lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JDK8lambda_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JDK8lambda_main.iml" group="JDK8lambda" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JDK8lambda_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JDK8lambda_test.iml" group="JDK8lambda" />
+    </modules>
+  </component>
+</project>
