@@ -5,6 +5,7 @@ import java.util.List;
 
 /**
  * Created by Administrator on 2017/2/9.
+ * 流的短路功能
  */
 public class StreamTest10 {
     public static void main(String[] args) {

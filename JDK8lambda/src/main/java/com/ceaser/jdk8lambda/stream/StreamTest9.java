@@ -17,8 +17,10 @@ public class StreamTest9 {
         System.out.println("starting order....");
         long start = System.nanoTime();
 
-        //list.stream().sorted().count();
-        list.parallelStream().count();
+        //排序
+        list.stream().sorted().count();//order speed time : 4003
+        //并行流
+       // list.parallelStream().count();//order speed time : 99
 
         long end = System.nanoTime();
 

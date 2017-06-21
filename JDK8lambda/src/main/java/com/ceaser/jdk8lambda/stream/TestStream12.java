@@ -7,6 +7,7 @@ import java.util.stream.Collectors;
 
 /**
  * Created by Administrator on 2017/2/11.
+ * 依次用list1的每个元素问候list2的每个元素
  */
 public class TestStream12 {
     public static void main(String[] args) {

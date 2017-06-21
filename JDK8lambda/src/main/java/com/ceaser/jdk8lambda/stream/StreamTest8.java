@@ -4,6 +4,14 @@ import java.util.stream.IntStream;
 
 /**
  * Created by Administrator on 2017/2/9.
+ * 执行6次，最后去重
+ * 不去重的情况输出：
+     0
+     1
+     0
+     1
+     0
+     1
  */
 public class StreamTest8 {
 

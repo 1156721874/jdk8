@@ -7,6 +7,7 @@ import java.util.stream.Collectors;
 
 /**
  * Created by Administrator on 2017/2/9.
+ * flatMap 打散输出
  */
 public class StreamTest11 {
     public static void main(String[] args) {

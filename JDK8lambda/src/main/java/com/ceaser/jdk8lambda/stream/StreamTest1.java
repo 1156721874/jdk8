@@ -6,6 +6,7 @@ import java.util.stream.Stream;
 
 /**
  * Created by Administrator on 2017/1/18.
+ * 集合到流的转换方式
  */
 public class StreamTest1 {
     public static void main(String[] args) {
