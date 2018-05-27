@@ -1,4 +1,7 @@
-JDK8lambda/.idea
+.gradle/
+.idea/
+build/
 BOM.puml
 ClassUml.puml
-JDK8lambda/.gradle
+
+
